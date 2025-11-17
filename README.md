@@ -1,4 +1,5 @@
 # tmux
 
 ## Requirements
-requires [tpm](https://github.com/tmux-plugins/tpm)
+A terminal with the [Catppuccin Theme](https://github.com/catppuccin/catppuccin)
+A supported font
